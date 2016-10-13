@@ -3,6 +3,7 @@
 This is a single-activity Android application using a handful of basic controls. 
 
 The view will have the following elements:
+
 1) Amount Borrowed
 This will be a EditText into which the user will enter the amount to be borrowed as a floating-point value (e.g., “1000.00”).
 
